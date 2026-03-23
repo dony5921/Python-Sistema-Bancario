@@ -11,7 +11,7 @@ Sistema bancário simples desenvolvido em Python, executado via terminal, com fu
 * 🏦 Criação de contas bancárias
 * 📋 Listagem de contas
 
-## ⚙️ Regras de negócio
+##  Regras de negócio
 
 * Limite de saque por operação
 * Limite diário de saques
@@ -31,7 +31,7 @@ cd Python-Sistema-Bancario
 python sbancario.py
 ```
 
-## 💻 Menu do sistema
+##  Menu do sistema
 
 ```text
 [d] Depositar
@@ -49,7 +49,7 @@ python sbancario.py
 * Controle de usuários e contas via listas
 * Loop principal controlando o fluxo do sistema
 
-## 📌 Objetivo
+##  Objetivo
 
 Projeto desenvolvido para prática de lógica de programação, manipulação de dados e simulação de regras de negócio de um sistema bancário.
 
